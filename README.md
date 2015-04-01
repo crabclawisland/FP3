@@ -1,21 +1,21 @@
 # FP3: Team Declaration
 DUE April 2, 2015 Wednesday (2015-04-02)
 
-##Project Title
+##Graphical Presentation of Information using Racket & It’s Libraries
 
-##A Team Name
+##Team Lapsus
 
-##Team Members
+###Team Members
 * Merve Tuccar (mervetuccar @github)
 * Alex Nevers (crabclawisland @github)
 
 ##Project Concept
-* Incorporate slideshow w/ pictures, icons, and possibly sound? 
-* Creating a presentation using Racket slideshow (on a certain topic, or the describing project in it) using sound and picture libraries? 
-* Topic of slideshow still undecided. could be humorous, informative, about racket itself, etc.
+* Build a Slideshow Presentation utilizing Racket’s Pict and Icon libraries, possibly also using Rsound and Gui.
+* Create a graphically clean and well designed slideshow, while also being informative.
+* Slideshow will be on Cyberdyne’s new military-grade AI, Skynet.
 
 ##Libraries You Plan to Use
 * Slideshow
 * Pict
-* Rsound, possibly
-* GUI?
+* Rsound (?)
+* GUI (?)
